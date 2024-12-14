@@ -1,0 +1,9 @@
+[package]
+name = "excellent-images"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.75"
+image = "0.24.7"
+rust_xlsxwriter = "0.54.0"
