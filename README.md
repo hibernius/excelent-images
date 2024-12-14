@@ -6,7 +6,7 @@ You present it with an image file and it bestows upon you an Excel file (as if b
 
 ## How
 
-Each pixel is translsated to a spreadsheet cell.
+Each pixel is translated to a spreadsheet cell.
 
 Input:
 
@@ -19,7 +19,7 @@ Output:
 ## Usage
 
 1. Add image to root
-2. Set image name in script
+2. Set image name in `src/main.rs`
 3. Run it:
 
 ```bash
@@ -30,4 +30,4 @@ cargo run
 
 ### Why?
 
-I think the answer to this is self-explanatory.
+I think you know why.
