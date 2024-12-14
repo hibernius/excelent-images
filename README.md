@@ -10,11 +10,13 @@ Each pixel is translsated to a spreadsheet cell.
 
 Input:
 
-![some guy](https://github.com/user-attachments/assets/ae40f088-6308-4fed-8815-bb6f6e7a956b)
+![some guy](https://github.com/user-attachments/assets/536bdae9-07f0-470b-a2e7-b11f01bc35b5)
+
 
 Output:
 
-![some guy (but in a spreadsheet)](https://github.com/user-attachments/assets/1129fd34-78f2-456b-897e-69be5cfb02bc)
+![some guy (but in a spreadsheet)](https://github.com/user-attachments/assets/0e123f2c-243c-4f66-9f09-8ce4da58d6f9)
+
 
 ## Usage
 
