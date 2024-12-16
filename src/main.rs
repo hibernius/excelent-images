@@ -36,7 +36,7 @@ fn main() {
     }
 
     let filename = get_filename(input_filepath).unwrap_or_else(|| "unknown".to_string());
-    let filename = replace_extension(&filename, "xlsx");
+    replace_extension(&filename, "xlsx");
     let output_directory = enforce_trailing_slash(output_directory);
 
     workbook
