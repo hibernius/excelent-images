@@ -20,12 +20,10 @@ Output:
 
 ## Usage
 
-1. Add image to root
-2. Set image name in `src/main.rs`
-3. Run it:
+Build the project then run:
 
 ```bash
-cargo run
+excelent-images -f <INPUT_FILE> [-d <OUTPUT_DIR>]
 ```
 
 ## FAQ
